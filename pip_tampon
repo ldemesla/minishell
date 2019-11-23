@@ -1,0 +1,34 @@
+     1	total 328$
+     2	drwxr-xr-x  33 mabois  2019_paris   1122 Nov 23 09:43 .$
+     3	drwx------@ 10 mabois  2019_paris    340 Nov 23 09:43 ..$
+     4	drwxr-xr-x  13 mabois  2019_paris    442 Nov 23 09:43 .git$
+     5	-rw-r--r--   1 mabois  2019_paris   1595 Nov 23 09:43 Makefile$
+     6	-rwxr-xr-x   1 mabois  2019_paris  38692 Nov 23 09:43 a.out$
+     7	-rw-r--r--   1 mabois  2019_paris   3029 Nov 23 09:43 bt_cd.c$
+     8	-rw-r--r--   1 mabois  2019_paris   3219 Nov 23 09:43 bt_cd_tools.c$
+     9	-rw-r--r--   1 mabois  2019_paris   1377 Nov 23 09:43 bt_cd_tools_2.c$
+    10	-rw-r--r--   1 mabois  2019_paris   3152 Nov 23 09:43 bt_echo.c$
+    11	-rw-r--r--   1 mabois  2019_paris   1230 Nov 23 09:43 bt_echo_bis.c$
+    12	-rw-r--r--   1 mabois  2019_paris   3176 Nov 23 09:43 bt_export.c$
+    13	-rw-r--r--   1 mabois  2019_paris   2461 Nov 23 09:43 bt_export_bis.c$
+    14	-rw-r--r--   1 mabois  2019_paris   2333 Nov 23 09:43 bt_export_ter.c$
+    15	-rw-r--r--   1 mabois  2019_paris   1215 Nov 23 09:43 bt_pwd.c$
+    16	-rw-r--r--   1 mabois  2019_paris   2220 Nov 23 09:43 exectuable_3.c$
+    17	-rw-r--r--   1 mabois  2019_paris   4596 Nov 23 09:43 executable copy.ptt$
+    18	-rw-r--r--   1 mabois  2019_paris   4007 Nov 23 09:43 executable.c$
+    19	-rw-r--r--   1 mabois  2019_paris   2938 Nov 23 09:43 executable_2.c$
+    20	-rw-r--r--   1 mabois  2019_paris   2045 Nov 23 09:43 exit.c$
+    21	-rw-r--r--   1 mabois  2019_paris   2203 Nov 23 09:43 init_clear.c$
+    22	-rw-r--r--   1 mabois  2019_paris   1458 Nov 23 09:43 init_clear_2.c$
+    23	-rw-r--r--   1 mabois  2019_paris   1128 Nov 23 09:43 lst_commands.c$
+    24	-rw-r--r--   1 mabois  2019_paris   3651 Nov 23 09:43 main.c$
+    25	-rw-r--r--   1 mabois  2019_paris   2354 Nov 23 09:43 main_bis.c$
+    26	-rw-r--r--   1 mabois  2019_paris   1512 Nov 23 09:43 main_bis_2.c$
+    27	-rw-r--r--   1 mabois  2019_paris   1149 Nov 23 09:43 main_ter.c$
+    28	-rw-r--r--   1 mabois  2019_paris   6203 Nov 23 09:43 minishell.h$
+    29	-rw-r--r--   1 mabois  2019_paris   2877 Nov 23 09:43 pip_tampon$
+    30	-rw-r--r--   1 mabois  2019_paris   2675 Nov 23 09:43 redirection.c$
+    31	-rw-r--r--   1 mabois  2019_paris   1924 Nov 23 09:43 string_tools_1.c$
+    32	-rw-r--r--   1 mabois  2019_paris   3026 Nov 23 09:43 string_tools_2.c$
+    33	-rw-r--r--   1 mabois  2019_paris   1556 Nov 23 09:43 string_tools_3.c$
+    34	-rw-r--r--   1 mabois  2019_paris   1242 Nov 23 09:43 utils.c$
