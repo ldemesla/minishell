@@ -1,6 +1,6 @@
 # minishell
 
-![minishell screenshot](screeen/screen.png)
+![minishell screenshot](screen/screen.png)
 
 A shell implementation with simple functionalities.
 
