@@ -1,5 +1,8 @@
 # minishell
-A shell with simple functionalities.
+
+![minishell screenshot](screeen/screen.png)
+
+A shell implementation with simple functionalities.
 
 ## Compiling
 Run `make`.
