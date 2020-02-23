@@ -4,6 +4,9 @@
 
 A shell implementation with simple functionalities.
 
+## Instruction
+You need to specify your home path in the `minishell.h`
+
 ## Compiling
 Run `make`.
 
